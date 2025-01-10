@@ -9,6 +9,10 @@ body{
     background-size: cover; 
     background-position: center;
 }
+.first{
+    text-align: center;
+    color: rgb(47, 19, 175);
+}
 .card{
 
 width: 80%;
